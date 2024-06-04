@@ -1,6 +1,6 @@
-# Stochastic_model_UVLF
+# Stochastic model UVLF
 
-Gelli, Mason & Hayward 2024 (https://ui.adsabs.harvard.edu/abs/2024arXiv240513108G/abstract)
+[Gelli, Mason & Hayward 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240513108G/abstract)
 
 `LF/` contains the UV luminosity functions for the mass-dependent UV scatter model. The two columns are:
 - UV magnitude Muv [mag]
